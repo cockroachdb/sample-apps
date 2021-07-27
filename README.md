@@ -1,6 +1,8 @@
 # Sample apps
 
-
+App | Description | Tech Stack | GitHub Repo | Blog post 
+----|-------------|------------|-------------|--------------
+Fullstack Node.js application | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud, Node.js, Sequelize Pug templates, Heroku | https://github.com/cockroachdb/fullstack-node-cockroachdb-app | 
 
 # Hackathon Hall of Fame
 
