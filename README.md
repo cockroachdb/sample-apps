@@ -1,10 +1,10 @@
 # Sample apps
 
-App | Description | Tech Stack | GitHub Repo |  
+App | Description | Tech Stack | GitHub Repo / Blog Post |  
 ----|-------------|------------|-------------|
 Dad Jokes! | A quick tutorial on how to create, develop, and test multi-region CockroachDB applications on your local desktop. | CockroachDB, SQL | https://github.com/chriscasano/multi-region-dad-jokes | 
 Geo-tourist | Use the spatial features in CockroachDB to find pubs, restaurants, cafes, etc | CockroachDB, Python Flask, Javascript, Kubernetes | https://github.com/cockroachlabs-field/crdb-geo-tourist
-Fullstack Node.js application | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud, Node.js, Sequelize Pug templates, Heroku | https://github.com/cockroachdb/fullstack-node-cockroachdb-app | 
+Fullstack Node.js application | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud, Node.js, Sequelize Pug templates, Heroku | https://github.com/cockroachdb/fullstack-node-cockroachdb-app https://www.cockroachlabs.com/blog/full-stack-node-app/| 
 
 # Hackathon Hall of Fame
 
