@@ -7,41 +7,35 @@
 
 # 👋 Hello, World!
 
-CockroachDB's wonderful Docs team maintains a repository of simple but complete example applications for each supported language and library combination. Following are some of the popular example apps: 
+CockroachDB's wonderful [Docs team](https://github.com/cockroachdb/docs) maintains a repository of simple but complete example applications for each supported language and library combination. Following are some of the popular example apps: 
 
 ## JavaScript/TypeScript
 
-| Driver/ORM Framework                                    | Support level  | Example apps                                           |
-|---------------------------------------------------------|----------------|--------------------------------------------------------|
-| [pg](https://www.npmjs.com/package/pg)                  | Full           | [Simple CRUD](build-a-nodejs-app-with-cockroachdb.html)
-| [Sequelize](https://www.npmjs.com/package/sequelize)    | Full           | [Simple CRUD](build-a-nodejs-app-with-cockroachdb-sequelize.html)
-| [TypeORM](https://www.npmjs.com/package/typeorm)        | Full           | [Simple CRUD](build-a-typescript-app-with-cockroachdb.html)
+- [Build a Node.js App with CockroachDB and the Node.js pg Driver](https://www.cockroachlabs.com/docs/v21.1/build-a-nodejs-app-with-cockroachdb)
+- [Build a Node.js App with CockroachDB and Sequelize](https://www.cockroachlabs.com/docs/v21.1/build-a-nodejs-app-with-cockroachdb-sequelize)
+- [Build a TypeScript App with CockroachDB and TypeORM](https://www.cockroachlabs.com/docs/v21.1/build-a-typescript-app-with-cockroachdb)
+
 
 ## Python
 
-| Driver/ORM Framework                                            | Support level  | Example apps                                           |
-|-----------------------------------------------------------------|----------------|--------------------------------------------------------|
-| [psycopg2](https://www.psycopg.org/docs/install.html)           | Full           | [Simple CRUD](build-a-python-app-with-cockroachdb.html)
-| [SQLAlchemy](https://www.sqlalchemy.org/)                       | Full           | [Hello World](hello-world-python-sqlalchemy.html)<br>[Simple CRUD](build-a-python-app-with-cockroachdb-sqlalchemy.html)<br>[MovR-Flask (Global Web App)](movr-flask-overview.html)
-| [Django](https://pypi.org/project/Django/)                      | Full           | [Simple CRUD](build-a-python-app-with-cockroachdb-django.html)
-| [PonyORM](https://ponyorm.org/)                                 | Full           | [Simple CRUD](build-a-python-app-with-cockroachdb-pony.html)
+- [Build a Python App with CockroachDB and psycopg2](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb)
+- [Build a Hello World App with CockroachDB and SQLAlchemy](https://www.cockroachlabs.com/docs/v21.1/hello-world-python-sqlalchemy)
+- [Build a Simple CRUD Python App with CockroachDB and SQLAlchemy](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb-sqlalchemy)
+- [Develop and Deploy a Global Application](https://www.cockroachlabs.com/docs/v21.1/movr-flask-overview)
+- [Build a Python App with CockroachDB and Django](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb-django)
+- [Build a Python App with CockroachDB and PonyORM](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb-pony)
+
 
 ## Java
 
-| Driver/ORM Framework                       | Support level  | Example apps                                            |
-|--------------------------------------------|----------------|--------------------------------------------------------|
-| [JDBC](https://jdbc.postgresql.org/)       | Full           | [Hello World](hello-world-java-jdbc.html)<br>[Simple CRUD](build-a-java-app-with-cockroachdb.html)<br>[Roach Data (Spring Boot App)](build-a-spring-app-with-cockroachdb-jdbc.html)
-| [Hibernate](https://hibernate.org/orm/)    | Full           | [Simple CRUD](build-a-java-app-with-cockroachdb-hibernate.html)<br>[Roach Data (Spring Boot App)](build-a-spring-app-with-cockroachdb-jpa.html)
-| [jOOQ](https://www.jooq.org/)              | Full           | [Simple CRUD](build-a-java-app-with-cockroachdb-jooq.html)
+- [Build a Hello World App with CockroachDB and JDBC](https://www.cockroachlabs.com/docs/v21.1/hello-world-java-jdbc)
+- [Build a Simple CRUD Java App with CockroachDB and JDBC](https://www.cockroachlabs.com/docs/v21.1/build-a-java-app-with-cockroachdb)
+- [Build a Spring App with CockroachDB and JDBC](https://www.cockroachlabs.com/docs/v21.1/build-a-spring-app-with-cockroachdb-jdbc)
+- [Build a Java App with CockroachDB and Hibernate](https://www.cockroachlabs.com/docs/v21.1/build-a-java-app-with-cockroachdb-hibernate)
+- [Build a Spring App with CockroachDB and JPA](https://www.cockroachlabs.com/docs/v21.1/build-a-spring-app-with-cockroachdb-jpa)
+- [Build a Java App with CockroachDB and jOOQ](https://www.cockroachlabs.com/docs/v21.1/build-a-java-app-with-cockroachdb-jooq)
 
-## Ruby
-
-| Driver/ORM Framework                                      | Support level  | Example apps                                            |
-|-----------------------------------------------------------|----------------|--------------------------------------------------------|
-| [pg](https://rubygems.org/gems/pg)                        | Full           | [Simple CRUD](build-a-ruby-app-with-cockroachdb.html)
-| [ActiveRecord](https://rubygems.org/gems/activerecord)    | Full           | [Simple CRUD](build-a-ruby-app-with-cockroachdb-activerecord.html)
-
-For the complete list of apps, see [CockroachDB Example Apps](https://www.cockroachlabs.com/docs/stable/example-apps.html)
+For the complete list of example apps, see [CockroachDB Example Apps](https://www.cockroachlabs.com/docs/stable/example-apps.html)
 
 # 🚀 CockroachDB in action
 
@@ -51,7 +45,7 @@ App | CockroachDB feature | Description | Tech Stack | GitHub Repo / Blog Post |
 ----|----------|-------------|------------|-------------|
 Dad Jokes! | Multi-region | A quick tutorial on how to create, develop, and test multi-region CockroachDB applications on your local desktop. | CockroachDB, SQL | https://github.com/chriscasano/multi-region-dad-jokes | 
 Geo-tourist | Spatial | Use the spatial features in CockroachDB to find pubs, restaurants, cafes, etc. | CockroachDB, Python Flask, Javascript, Kubernetes | https://github.com/cockroachlabs-field/crdb-geo-tourist
-MovR | Multi-region | Use the multi-region features of CockroachDB to build a functional vehicle-sharing app. | CockroachDB, Python, SQLAlchemy | https://github.com/cockroachdb/movr
+MovR | Multi-region | Use the multi-region features of CockroachDB to build a functional vehicle-sharing app. | CockroachDB, Python, Flask, SQLAlchemy | https://github.com/cockroachdb/movr
 Node.js application | Basic CRUD operations | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud, Node.js, Sequelize Pug templates, Heroku | https://github.com/cockroachdb/fullstack-node-cockroachdb-app https://www.cockroachlabs.com/blog/full-stack-node-app/| 
 
 # 🥇 Hackathon Hall of Fame
