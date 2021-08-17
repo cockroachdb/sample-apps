@@ -7,35 +7,7 @@
 
 # 👋 Hello, World!
 
-CockroachDB's wonderful [Docs team](https://github.com/cockroachdb/docs) maintains a repository of simple but complete example applications for each supported language and library combination. Following are some of the popular example apps: 
-
-## JavaScript/TypeScript
-
-- [Build a Node.js App with CockroachDB and the Node.js pg Driver](https://www.cockroachlabs.com/docs/v21.1/build-a-nodejs-app-with-cockroachdb)
-- [Build a Node.js App with CockroachDB and Sequelize](https://www.cockroachlabs.com/docs/v21.1/build-a-nodejs-app-with-cockroachdb-sequelize)
-- [Build a TypeScript App with CockroachDB and TypeORM](https://www.cockroachlabs.com/docs/v21.1/build-a-typescript-app-with-cockroachdb)
-
-
-## Python
-
-- [Build a Python App with CockroachDB and psycopg2](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb)
-- [Build a Hello World App with CockroachDB and SQLAlchemy](https://www.cockroachlabs.com/docs/v21.1/hello-world-python-sqlalchemy)
-- [Build a Simple CRUD Python App with CockroachDB and SQLAlchemy](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb-sqlalchemy)
-- [Develop and Deploy a Global Application](https://www.cockroachlabs.com/docs/v21.1/movr-flask-overview)
-- [Build a Python App with CockroachDB and Django](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb-django)
-- [Build a Python App with CockroachDB and PonyORM](https://www.cockroachlabs.com/docs/v21.1/build-a-python-app-with-cockroachdb-pony)
-
-
-## Java
-
-- [Build a Hello World App with CockroachDB and JDBC](https://www.cockroachlabs.com/docs/v21.1/hello-world-java-jdbc)
-- [Build a Simple CRUD Java App with CockroachDB and JDBC](https://www.cockroachlabs.com/docs/v21.1/build-a-java-app-with-cockroachdb)
-- [Build a Spring App with CockroachDB and JDBC](https://www.cockroachlabs.com/docs/v21.1/build-a-spring-app-with-cockroachdb-jdbc)
-- [Build a Java App with CockroachDB and Hibernate](https://www.cockroachlabs.com/docs/v21.1/build-a-java-app-with-cockroachdb-hibernate)
-- [Build a Spring App with CockroachDB and JPA](https://www.cockroachlabs.com/docs/v21.1/build-a-spring-app-with-cockroachdb-jpa)
-- [Build a Java App with CockroachDB and jOOQ](https://www.cockroachlabs.com/docs/v21.1/build-a-java-app-with-cockroachdb-jooq)
-
-For the complete list of example apps, see [CockroachDB Example Apps](https://www.cockroachlabs.com/docs/stable/example-apps.html)
+CockroachDB's wonderful Docs team maintains a repository of simple but complete example applications for each supported language and library combination. See [CockroachDB Example Apps](https://www.cockroachlabs.com/docs/stable/example-apps.html) for more information.
 
 # 🚀 CockroachDB in action
 
