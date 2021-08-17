@@ -1,8 +1,8 @@
 # 📖 Contents
 
-- [Hello, World!](#hello-world)
-- [CockroachDB in action](#cockroachdb-in-action)
-- [Hackathon Hall of Fame](hackathon-hall-of-fame)
+- [Hello, World!](#-hello-world)
+- [CockroachDB in action](#-cockroachdb-in-action)
+- [Hackathon Hall of Fame](#-hackathon-hall-of-fame)
 
 
 # 👋 Hello, World!
