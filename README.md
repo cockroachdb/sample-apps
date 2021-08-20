@@ -14,11 +14,12 @@ CockroachDB's wonderful Docs team maintains a repository of simple but complete 
 Following are full-stack, functional applications built by Roachers and contributors to demonstrate CockroachDB features:
 
 App | CockroachDB feature | Description | Tech Stack | GitHub Repo / Blog Post |  
-----|----------|-------------|------------|-------------|
-Dad Jokes! | Multi-region | A quick tutorial on how to create, develop, and test multi-region CockroachDB applications on your local desktop. | CockroachDB, SQL | https://github.com/chriscasano/multi-region-dad-jokes | 
-Geo-tourist | Spatial | Use the spatial features in CockroachDB to find pubs, restaurants, cafes, etc. | CockroachDB, Python Flask, Javascript, Kubernetes | https://github.com/cockroachlabs-field/crdb-geo-tourist
-MovR | Multi-region | Use the multi-region features of CockroachDB to build a functional vehicle-sharing app. | CockroachDB, Python, Flask, SQLAlchemy | https://github.com/cockroachdb/movr
-Node.js application | Basic CRUD operations | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud, Node.js, Sequelize Pug templates, Heroku | https://github.com/cockroachdb/fullstack-node-cockroachdb-app https://www.cockroachlabs.com/blog/full-stack-node-app/| 
+----|---------------------|-------------|------------|-------------------------|
+Dad Jokes! | Multi-region | A quick tutorial on how to create, develop, and test multi-region CockroachDB applications on your local desktop. | CockroachDB, SQL | [GitHub repo](https://github.com/chriscasano/multi-region-dad-jokes) 
+MovR | Multi-region | Use the multi-region features of CockroachDB to build a functional vehicle-sharing app. | CockroachDB, Python, Flask, SQLAlchemy | [GitHub repo](https://github.com/cockroachdb/movr)
+Geo-tourist | Spatial | Use the spatial features in CockroachDB to find pubs, restaurants, cafes, etc. | CockroachDB, Python Flask, Javascript, Kubernetes | [GitHub repo](https://github.com/cockroachlabs-field/crdb-geo-tourist)
+Birdwatching/bookstore tour in the Adirondacks | Spatial | Plan a vacation from New York City to the Adirondack Mountains in northern New York State to do some birdwatching while visiting local independent bookstores. | CockroachDB, geojson.io | [Docs](https://www.cockroachlabs.com/docs/v20.2/spatial-tutorial.html)
+Node.js application | Basic CRUD operations | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud, Node.js, Sequelize Pug templates, Heroku | [GitHub repo](https://github.com/cockroachdb/fullstack-node-cockroachdb-app) [Blog](https://www.cockroachlabs.com/blog/full-stack-node-app/) 
 
 # 🥇 Hackathon Hall of Fame
 
