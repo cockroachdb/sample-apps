@@ -19,7 +19,7 @@ Dad Jokes! | Multi-region | A quick tutorial on how to create, develop, and test
 MovR | Multi-region | Use the multi-region features of CockroachDB to build a functional vehicle-sharing app. | CockroachDB, Python, Flask, SQLAlchemy | [GitHub repo](https://github.com/cockroachdb/movr)
 Geo-tourist | Spatial | Use the spatial features in CockroachDB to find pubs, restaurants, cafes, etc. | CockroachDB, Python Flask, Javascript, Kubernetes | [GitHub repo](https://github.com/cockroachlabs-field/crdb-geo-tourist)
 Birdwatching/bookstore tour in the Adirondacks | Spatial | Plan a vacation from New York City to the Adirondack Mountains in northern New York State to do some birdwatching while visiting local independent bookstores. | CockroachDB, geojson.io | [Docs](https://www.cockroachlabs.com/docs/v20.2/spatial-tutorial.html)
-Node.js application | Basic CRUD operations | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud, Node.js, Sequelize Pug templates, Heroku | [GitHub repo](https://github.com/cockroachdb/fullstack-node-cockroachdb-app) [Blog](https://www.cockroachlabs.com/blog/full-stack-node-app/) 
+Node.js application | Basic CRUD operations | The source code for a simple full-stack CRUD application, written in Node.js. The application uses Sequelize to connect to and communicate with a free CockroachCloud cluster. | CockroachCloud Free, Node.js, Sequelize Pug templates, Heroku | [GitHub repo](https://github.com/cockroachdb/fullstack-node-cockroachdb-app) [Blog](https://www.cockroachlabs.com/blog/full-stack-node-app/) 
 
 # 🥇 Hackathon Hall of Fame
 
